@@ -47,7 +47,6 @@ const fs = require('fs');
 const gif = require("gif-search");
 
 
-/////////////////////////
 ////////////////////////
 
 client.on('message', async msg =>{
